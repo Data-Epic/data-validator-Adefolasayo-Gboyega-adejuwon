@@ -1,0 +1,6 @@
+README.md
+setup.py
+datavalidator.egg-info/PKG-INFO
+datavalidator.egg-info/SOURCES.txt
+datavalidator.egg-info/dependency_links.txt
+datavalidator.egg-info/top_level.txt

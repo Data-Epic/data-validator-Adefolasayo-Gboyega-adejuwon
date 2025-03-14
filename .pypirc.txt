@@ -1,0 +1,4 @@
+[testpypi]
+  repository = https://test.pypi.org/legacy/
+  username = __token__
+  password = pypi-AgENdGVzdC5weXBpLm9yZwIkNGRhOTRhN2YtZmQ0MS00NGMwLTg3NDYtYzdlMmFmNTUyMDhlAAIqWzMsIjAwNzI5YWZkLTU4NjAtNDNhZi05NWI0LTA2MjE0YTJmMWM5ZCJdAAAGIOkTUYoR7Dj0Jm804mm2S4w-qX560tcsfimS5cN38Zlc
