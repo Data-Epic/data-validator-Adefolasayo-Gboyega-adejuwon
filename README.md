@@ -73,5 +73,5 @@ This project provides a Python class, `DataValidator`, for validating various da
     ```
 
 
-## Project Structure# data-validator-Adefolasayo-Gboyega-adejuwon
+
 # data-validator-Adefolasayo-Gboyega-adejuwon
